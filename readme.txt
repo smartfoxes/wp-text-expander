@@ -1,6 +1,7 @@
 === WP Text Expander ===
 Contributors: smartfoxes
 Tags: shortcode, text, content, central, replacement, management, terms
+Donate link: https://www.smartfoxes.ca/coffee/
 Requires at least: 4.1
 Tested up to: 4.9.6
 Stable tag: 1.0.0
@@ -26,7 +27,7 @@ Once installed and activated, WP Text Expander creates a page in WordPress admin
 
 After you have your terms setup, you can use a simple shortcode [mytext YOURTERM] in your posts, pages, widgets and even menus.
 
-Your shortcodes will be replaced with centrally stored replacements, which makes it super-easy to update all entries from just one central spot, saving your time and making sure you haven’t missed a spot.
+Your shortcodes will be replaced with centrally stored replacements, which makes it super-easy to update all entries from just one central spot, saving your time and making sure you haven't missed a spot.
 
 == Installation ==
 
@@ -51,3 +52,12 @@ If you're a premium user, please use the email address you got when purchasing p
 2. Use shortcode inside the page or post content
 3. Use shortcode in the menu headline
 
+== Changelog ==
+
+= 1.0.0 =
+First public release of the plugin, which comes with:
+* admin page to manage text snippets
+* shortcode to use in pages, posts and widgets
+
+== Upgrade Notice ==
+If you have a beta version, upgrade to the official release from the WordPress.org repository to stay up to date
