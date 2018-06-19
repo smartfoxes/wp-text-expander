@@ -95,7 +95,7 @@ class WPTextExpander_Settings
 					<div class="big-margin">
                     	<p class="help">Are you enjoying this plugin? <a href="https://www.smartfoxes.ca/coffee">Buy developer a coffee</a> to fuel new features and other plugins development.</p>
                     	
-                    	<p class="help"><a target="_blank" href="#" onClick="jQuery('#wp-text-expander-welcome-panel').removeClass('hidden');jQuery($this).addClass('hidden');return false;">Show Plugin Intro Page</a></p>
+                    	<p class="help" id="wp-text-expander-welcome-panel-link"><a target="_blank" href="#" onClick="jQuery('#wp-text-expander-welcome-panel').removeClass('hidden');jQuery('#wp-text-expander-welcome-panel-link').addClass('hidden');return false;">Show Plugin Intro Page</a></p>
                     </div>
 
 				    <?php endif; ?>

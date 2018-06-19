@@ -54,6 +54,10 @@ If you're a premium user, please use the email address you got when purchasing p
 
 == Changelog ==
 
+= 1.0.1 =
+Minor bug fix
+* Fixed link on plugin settings page which opens welcome message
+
 = 1.0.0 =
 First public release of the plugin, which comes with:
 * admin page to manage text snippets
